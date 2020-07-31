@@ -5,4 +5,3 @@
 
 ###### https://www.linkedin.com/in/ismael-pedro/
 ###### https://www.instagram.com/http_p3dro/
-###### https://imgur.com/39gTeNl
