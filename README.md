@@ -17,19 +17,18 @@
 
 <h1 align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelpedro&langs_count=8)](https://github.com/ismaelpedro/github-readme-stats)
-<img src="https://i.imgur.com/wR4wNrU.png"/>
-
 <hr style="height: 1px;">
-
 <center>
 <table width="100%">
   <tr>
-      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanmarcus&layout=compact&show_icons=true&theme=default&hide_border=true" alt="rayanmarcus"/></td>
-      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=rayanmarcus&theme=default&show_icons=true&hide_border=true" alt="rayanmarcus"/></td>
+      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelpedro&layout=compact&show_icons=true&theme=default&hide_border=true" alt="ismaelpedro"/></td>
+      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelpedro&theme=default&show_icons=true&hide_border=true" alt="ismaelpedro"/></td>
   </tr>  
 </table>
 </center>
+<img src="https://i.imgur.com/wR4wNrU.png"/>
+
+
 
 <!-- ![ismaelpedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaelpedro&show_icons=true&theme=gruvbox)   -->
 
