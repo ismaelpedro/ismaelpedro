@@ -20,6 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelpedro&langs_count=8)](https://github.com/ismaelpedro/github-readme-stats)
 
 ![ismaelpedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaelpedro&show_icons=true&theme=gruvbox)
-</h1>
 
-<!-- <img src="https://i.imgur.com/wR4wNrU.png"/> -->
+<img src="https://i.imgur.com/wR4wNrU.png"/>
+</h1>
