@@ -1,4 +1,4 @@
-# Hey, Welcome to my profile! :) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+## Hey, Welcome to my profile! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40px">
 
 ## Contacts:
 
@@ -19,7 +19,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelpedro&langs_count=8)](https://github.com/ismaelpedro/github-readme-stats)
 
-![ismaelpedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaelpedro&show_icons=true&theme=gruvbox)
+<!-- ![ismaelpedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaelpedro&show_icons=true&theme=gruvbox) -->
 
 <img src="https://i.imgur.com/wR4wNrU.png"/>
 </h1>
