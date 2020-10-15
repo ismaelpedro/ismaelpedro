@@ -21,11 +21,30 @@
 <center>
 <table width="100%">
   <tr>
-      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelpedro&layout=compact&show_icons=true&theme=default&hide_border=true" alt="ismaelpedro"/></td>
-      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelpedro&theme=default&show_icons=true&hide_border=true" alt="ismaelpedro"/></td>
+      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/&theme=dracula?username=ismaelpedro&layout=compact&show_icons=true&theme=default&hide_border=true" alt="ismaelpedro"/></td>
+      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelpedro&theme=default&show_icons=true&hide_border=true&theme=dracula" alt="ismaelpedro"/></td>
   </tr>  
 </table>
 </center>
+
+### :bar_chart: My [Github stats](https://github.com/ismaelpedro/github-readme-stats)
+<p align='center'>
+  <a href="https://github-readme-stats.vercel.app/api?username=edward-mn&show_icons=true&theme=dracula">
+    <img alt="Edward - GitHub Stats Card" display="block" align="center" width="426px" src="https://github-readme-stats.vercel.app/api?username=ismaelpedro&show_icons=true&theme=dracula"/>
+  </a> 
+  <a href="https://github.com/edward-mn/github-readme-stats">
+    <img alt="Edward - Compact Language Card Layout" display="block" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward-mn&layout=compact&show_icons=true&theme=dracula"/>
+  </a>
+</p>### :bar_chart: My [Github stats](https://github.com/murilothink/github-readme-stats)
+<p align='center'>
+  <a href="https://github-readme-stats.vercel.app/api?username=edward-mn&show_icons=true&theme=dracula">
+    <img alt="Edward - GitHub Stats Card" display="block" align="center" width="426px" src="https://github-readme-stats.vercel.app/api?username=edward-mn&show_icons=true&theme=dracula"/>
+  </a> 
+  <a href="https://github.com/edward-mn/github-readme-stats">
+    <img alt="Edward - Compact Language Card Layout" display="block" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward-mn&layout=compact&show_icons=true&theme=dracula"/>
+  </a>
+</p>
+
 <img src="https://i.imgur.com/wR4wNrU.png"/>
 
 
