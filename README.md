@@ -15,7 +15,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
+<h1 align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelpedro&langs_count=8)](https://github.com/ismaelpedro/github-readme-stats)
+<h1/>
 
 <!-- <img src="https://i.imgur.com/wR4wNrU.png"/> -->
 
