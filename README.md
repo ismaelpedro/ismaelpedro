@@ -18,7 +18,7 @@
 <h1 align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelpedro&langs_count=8)](https://github.com/ismaelpedro/github-readme-stats)
-<img src="https://i.imgur.com/QrxE7AU"/>
+<img src="https://i.imgur.com/a/QrxE7AU"/>
 
 <!-- ![ismaelpedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaelpedro&show_icons=true&theme=gruvbox)  https://i.imgur.com/wR4wNrU.png -->
 
