@@ -21,7 +21,7 @@
 <center>
 <table width="100%">
   <tr>
-      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelpedro&layout=compact&show_icons=true&theme=default&hide_border=true" alt="ismaelpedro"/></td>
+      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelpedro&layout=compact&show_icons=true&theme=dracula&hide_border=true" alt="ismaelpedro"/></td>
       <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelpedro&theme=dracula&show_icons=true&hide_border=true" alt="ismaelpedro"/></td>
   </tr>  
 </table>
