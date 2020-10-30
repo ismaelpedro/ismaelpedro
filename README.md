@@ -1,4 +1,4 @@
-# Hey, welcome to my profile! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40px">
+## Hey, welcome to my profile! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40px">
 
 <img align="right" width="400" src="https://i.imgur.com/wR4wNrU.png"/>
 
