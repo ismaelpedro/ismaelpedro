@@ -26,5 +26,5 @@
     </tr>  
   </table>
   </center>
-    <img src="https://i.imgur.com/wR4wNrU.png"/>
+    <img align="right" width="350" src="https://i.imgur.com/wR4wNrU.png"/>
 </h1>
