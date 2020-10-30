@@ -2,13 +2,13 @@
 
 <img align="right" width="450" src="https://i.imgur.com/wR4wNrU.png"/>
 
-# Contacts:
+Contacts:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/ismaelpedro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:http.ismaeel@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/ismaelpdro/)
 
-## Languages and Tools :rocket::
+Languages and Tools :rocket::
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
