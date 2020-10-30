@@ -1,5 +1,5 @@
 ## Hey, welcome to my profile! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40px">
-
+<img align="right" width="350" src="https://i.imgur.com/wR4wNrU.png"/>
 ## Contacts:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/ismaelpedro/)
@@ -26,5 +26,5 @@
     </tr>  
   </table>
   </center>
-    <img align="right" width="350" src="https://i.imgur.com/wR4wNrU.png"/>
+    
 </h1>
