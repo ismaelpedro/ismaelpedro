@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaelpedro/)](https://www.linkedin.com/in/ismaelpedro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:http.ismaeel@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ismaelpdro/)](https://www.instagram.com/ismaelpdro/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.twitter.com/in/ismaelpdro/)](https://www.twitter.com/in/ismaelpdro/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.twitter.com/ismaelpdro/)](https://www.twitter.com/ismaelpdro/)
 
 ### Languages and Tools :rocket::
 
