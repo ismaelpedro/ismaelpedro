@@ -1,6 +1,6 @@
 ### Hey bro! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40px">
 
-<img align="right" width="400" height="300" margin-bottom="100" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+<img align="right" width="400" height="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
 
 ### Contacts:
 
@@ -19,7 +19,7 @@
 
 <h1 align="center">
   <center>
-  <table width="100%">
+  <table width="100%" margin-top="100px">
     <tr>
         <td>
           <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelpedro&layout=compact&show_icons=true&theme=dracula&hide_border=true" alt="ismaelpedro"/>
