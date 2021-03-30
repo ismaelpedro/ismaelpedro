@@ -1,4 +1,4 @@
-## Hey bro! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40px">
+### Hey bro! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40px">
 
 <img align="right" width="400" src="https://i.imgur.com/wR4wNrU.png"/>
 
@@ -18,17 +18,18 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
-### :bar_chart: My [Github stats](https://github.com/ismaelpedro/github-readme-stats)
-
 <h1 align="center">
   <hr style="height: 1px;">
   <center>
   <table width="100%">
     <tr>
-        <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelpedro&layout=compact&show_icons=true&theme=dracula&hide_border=true" alt="ismaelpedro"/></td>
-        <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelpedro&theme=dracula&show_icons=true&hide_border=true" alt="ismaelpedro"/></td>
+        <td>
+          <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelpedro&layout=compact&show_icons=true&theme=dracula&hide_border=true" alt="ismaelpedro"/>
+      </td>
+        <td>
+          <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelpedro&theme=dracula&show_icons=true&hide_border=true" alt="ismaelpedro"/>
+        </td>
     </tr>  
   </table>
   </center>
-  
 </h1>
