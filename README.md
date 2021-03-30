@@ -17,9 +17,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<h1 align="center">
+
   <center>
-  <table width="100%" margin-top="100px">
+  <table width="100%">
     <tr>
         <td>
           <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelpedro&layout=compact&show_icons=true&theme=dracula&hide_border=true" alt="ismaelpedro"/>
