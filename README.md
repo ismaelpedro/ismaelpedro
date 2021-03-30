@@ -1,6 +1,7 @@
+<img align="right" width="350" height="250" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+
 ### Hey bro! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40px">
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
 
 ### Contacts:
 
@@ -17,8 +18,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<h1 align="center">
-  <center>
+<center>
   <table width="100%">
     <tr>
         <td>
@@ -29,5 +29,4 @@
         </td>
     </tr>  
   </table>
-  </center>
-</h1>
+</center>
