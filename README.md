@@ -1,4 +1,4 @@
-<img align="right" width="350" height="250" src="https://imgur.com/a/2iYaw5q"/>
+<img align="right" width="350" height="250" src="https://imgur.com/fHejjgj"/>
 
 ### Hey bro! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40px">
 
