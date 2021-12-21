@@ -1,5 +1,9 @@
 <img align="right" width="350" height="250" margin-right="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
 
+ <h1 align="center">Hi there!! <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a></h1>
+
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 ### Hey, Welcome! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40px">
 
 ### Contacts:
