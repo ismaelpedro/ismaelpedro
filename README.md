@@ -5,7 +5,7 @@
 ---
 
 - 💻 Check out my personal website: [ismaelpedro.dev](https://ismaelpedro.dev)!
-- 🏗️ Currently a **Fullstack Engineer** @ **World Wide Technology**.
+- 🏗️ Currently a **Fullstack Engineer** @**World Wide Technology**.
 - 📫 How to reach me: [ismaelpedro.dev@gmail.com](mailto:ismaelpedro.dev@gmail.com)
 
 ## Programming Languages and Tools:
